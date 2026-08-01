@@ -54,11 +54,11 @@ window.APP_CONFIG = {
        previewDate: "2026-08-10T12:00:00+02:00"
        ===================================================== */
 
-    debug: {
-        enabled: false,
-        previewDate: null
-    },
-
+ 
+debug: {
+    enabled: true,
+    previewDate: "2026-08-3T12:00:00+02:00"
+},
 
     /* =====================================================
        CONTADOR
