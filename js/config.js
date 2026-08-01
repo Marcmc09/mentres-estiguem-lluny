@@ -68,7 +68,7 @@ window.APP_CONFIG = {
         targetDate: "2026-08-30T10:00:00+02:00",
 
         defaultMessage:
-            "Cada segon és un segon menys per tornar-te a veure.",
+            "Cada segon és un segon mes per tornar-te a veure.",
 
         lastDayMessage:
             "Ja només falta un dia per tornar-nos a veure.",
