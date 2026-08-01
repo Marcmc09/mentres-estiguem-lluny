@@ -68,7 +68,7 @@ window.APP_CONFIG = {
         targetDate: "2026-08-30T10:00:00+02:00",
 
         defaultMessage:
-            "Cada segon és un segon mes per tornar-te a veure.",
+            "Cada segon és un segon menys per tornar-te a veure.",
 
         lastDayMessage:
             "Ja només falta un dia per tornar-nos a veure.",
@@ -288,7 +288,7 @@ window.APP_CONFIG = {
     fallbackMessages: [
         "Encara que avui estiguem lluny, hi ha una part de mi que continua al teu costat.",
 
-        "Cada dia que passa és un dia menys per tornar-nos a veure.",
+        "Cada dia que passa és un dia menys per tornar-nos a veuree.",
 
         "Et trobo a faltar, però m’encanta saber que tenim alguna cosa tan bonica per esperar.",
 
